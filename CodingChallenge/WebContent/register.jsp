@@ -55,7 +55,7 @@
 		if(failure){
 	%>
 	<div class="alert alert-danger">
-		Your Registration Failed	
+		Your Registration Failed	:(
 	</div>
 	<% 	
 		}
