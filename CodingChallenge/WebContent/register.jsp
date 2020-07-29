@@ -47,7 +47,7 @@
 		if(success){
 	%>
 	<div class="alert alert-success">
-		Your Registration Is Successful		
+		Your Registration Is Successful	!!!	
 	</div>
 	<% 
 		}
