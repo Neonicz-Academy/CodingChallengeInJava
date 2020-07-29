@@ -34,7 +34,7 @@
   </div>
 
   <div class="register-box-body">
-    <p class="login-box-msg">Participate in Coding Challenge</p>
+    <p class="login-box-msg">Participate in Coding Challenge Program</p>
 
 	<%
 		Boolean success = (Boolean) request.getAttribute("success");
@@ -47,7 +47,7 @@
 		if(success){
 	%>
 	<div class="alert alert-success">
-		Your Registration Is Successful		
+		Your Registration Is Successful	!!!	
 	</div>
 	<% 
 		}
